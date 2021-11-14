@@ -1,5 +1,5 @@
 # Colors-Project
-3-proiect 
+3-proiect curs
 
 Contine: un fisier HTML, un fisier CSS, un fisier JavaScript.
 
